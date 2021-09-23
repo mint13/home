@@ -21,8 +21,8 @@ code {
 }
 
 .bgstyle {
-  /* background: linear-gradient(136deg, #1ad7c0, #8E44AD, #ff9b11, #1F3A93, #ddd8c6, #000000, #000000);  */
-  /*background: linear-gradient(
+  background: linear-gradient(136deg, #1ad7c0, #8E44AD, #ff9b11, #1F3A93, #ddd8c6, #000000, #000000);
+  background: linear-gradient(
     136deg,
     #4484ce,
     #1ad7c0,
@@ -30,7 +30,7 @@ code {
     #9b59b6,
     #ff7f7f,
     #ecf0f1
-  );*/
+  );
 
   background-size: 1200% 1200%;
   -webkit-animation: BackgroundAnimation 70s ease infinite;
@@ -138,4 +138,8 @@ code {
 
 .credit-info {
   display: none;
+}
+
+h1.display-1 {
+  text-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
 }
