@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Mint",
   middleName: "",
   lastName: "Medillo",
-  message: " a Passionate Fullstack Engineer from the Philippines.",
+  message: " The odyssey of a Fullstack Engineer ",
   icons: [
     {
       image: "fa-github",
@@ -31,7 +31,7 @@ const mainBody = {
 };
 
 // ABOUT SECTION
-// If you want the About Section to show a profile picture you can fill the profilePictureLink either with:
+// If you want the About Section to show a profile picture you can   fill the profilePictureLink either with:
 //a) your Instagram username
 //      i.e:profilePictureLink:"johnDoe123",
 //b) a link to an hosted image
@@ -50,7 +50,7 @@ const about = {
   imageLink: require("../editable-stuff/mint.jpg"),
   imageSize: 375,
   message:
-    "My name is Mint Medillo. A Software Engineer currently working at Poplar Homes, formerly Onerent",
+    "Hi! My name is Mint. A Fullstack Engineer currently working at a Silicon Valley based startup company, Poplar Homes(formerly Onerent).\nI have 8+ years of experience as a developer and love working with React and WordPress. If you fancy a chat feel free to drop me a line.",
   resume: "https://drive.google.com/file/d/18pxlQYDeYzPC_6wpBKIYj1iTHJDATjbT/view?usp=sharing",
 };
 
@@ -63,8 +63,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "mint13", //i.e."johnDoe12Gh"
-  reposLength: 4,
-  specificRepos: [],
+  reposLength: 0,
+  specificRepos: ['LeetCode-programming-problems', 'Design-Patterns', 'mint13.github.io', 'computer-science'],
 };
 
 // Leadership SECTION
@@ -106,13 +106,13 @@ const skills = {
     { name: "Data Structures", value: 65 },
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 80 },
-    { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
+    { name: "Attitude", value: 85 },
+    { name: "Communication", value: 90 },
+    { name: "Teamwork", value: 80 },
     { name: "Adaptability", value: 85 },
     { name: "Problem Solving", value: 75 },
-    { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
+    { name: "Empathy", value: 65 },
+    { name: "Time management", value: 75 },
     { name: "Creativity", value: 90 },
   ],
 };
@@ -122,33 +122,43 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "I'm currently looking for part-time Software Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+  email: "m.medillo13@gmail.com",
 };
 
 const experiences = {
   show: true,
-  heading: "Experiences",
+  heading: "Past Works",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      role: 'Poplar Homes',// Here Add Company Name
+      companylogo: require('../assets/img/poplarhomes-min.jpg'),
+      date: "Created using WordPress, and comes with heavy customisation to connect to Poplar's main app",
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      role: 'Doorways NZ',// Here Add Company Name
+      companylogo: require('../assets/img/doorways-min.jpg'),
+      date: "Created using Zest; Zeald's proprietary CMS made made with Perl ",
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      role: 'Kohler NZ',// Here Add Company Name
+      companylogo: require('../assets/img/kohler-min.jpg'),
+      date: "Created using Zest; Zeald's proprietary CMS made made with Perl",
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      role: 'The Good Wine',// Here Add Company Name
+      companylogo: require('../assets/img/thegoodwine-min.jpg'),
+      date: "Created using WordPress with Woocommerce; Heavily customised theme with custom search functionality",
+    },
+    {
+      role: 'Plassurg NZ',// Here Add Company Name
+      companylogo: require('../assets/img/plassurg-min.jpg'),
+      date: "Created using WordPress and uses lots of Custom Post Types to accommodate website functionalities",
+    },
+    {
+      role: 'Bargain Bins NZ',// Here Add Company Name
+      companylogo: require('../assets/img/bargainbins-min.jpg'),
+      date: "Created using WordPress with Woocommerce. Customised home page form to create direct checkout process",
     },
   ]
 }
