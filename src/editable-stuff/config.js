@@ -136,9 +136,9 @@ const experiences = {
       date: "Created using WordPress, and comes with heavy customisation to connect to Poplar's main app",
     },
     {
-      role: 'Doorways NZ',// Here Add Company Name
-      companylogo: require('../assets/img/doorways-min.jpg'),
-      date: "Created using Zest; Zeald's proprietary CMS made made with Perl ",
+      role: 'Scamlord AI',// Here Add Company Name
+      companylogo: require('../assets/img/scamlord-min.jpg'),
+      date: "A simple web app to check if a listing is valid or scam. Created using WordPress while using Poplar's API to check the validity of the listing.",
     },
     {
       role: 'Kohler NZ',// Here Add Company Name
