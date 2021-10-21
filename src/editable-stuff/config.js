@@ -143,7 +143,7 @@ const experiences = {
     {
       role: 'Kohler NZ',// Here Add Company Name
       companylogo: require('../assets/img/kohler-min.jpg'),
-      date: "Created using Zest; Zeald's proprietary CMS made made with Perl",
+      date: "Created using Zest; Zeald's proprietary CMS made with Perl",
     },
     {
       role: 'The Good Wine',// Here Add Company Name
