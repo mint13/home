@@ -21,7 +21,7 @@ const mainBody = {
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/mint-medillo-455210b9/",
+      url: "https://www.linkedin.com/in/mint-medillo/",
     },
     {
       image: "fa-twitter",
