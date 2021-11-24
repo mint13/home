@@ -50,7 +50,7 @@ const about = {
   imageLink: require("../editable-stuff/mint.jpg"),
   imageSize: 375,
   message:
-    "Hi! My name is Mint. A Fullstack Engineer currently working at a Silicon Valley based startup company, Poplar Homes(formerly Onerent).\nI have 8+ years of experience as a developer and love working with React and WordPress. If you fancy a chat feel free to drop me a line.",
+    "Hi! My name is Mint. A Fullstack Engineer currently working at a Silicon Valley based startup company, Poplar Homes(formerly Onerent).\nI have 8+ years of experience as a developer and love working with React and WordPress. If you fancy a chat, feel free to drop me a line.",
   resume: "https://drive.google.com/file/d/18pxlQYDeYzPC_6wpBKIYj1iTHJDATjbT/view?usp=sharing",
 };
 
@@ -107,13 +107,13 @@ const skills = {
   ],
   softSkills: [
     { name: "Attitude", value: 85 },
-    { name: "Communication", value: 90 },
-    { name: "Teamwork", value: 80 },
+    { name: "Communication", value: 80 },
+    { name: "Teamwork", value: 85 },
     { name: "Adaptability", value: 85 },
     { name: "Problem Solving", value: 75 },
     { name: "Empathy", value: 65 },
     { name: "Time management", value: 75 },
-    { name: "Creativity", value: 90 },
+    { name: "Creativity", value: 85 },
   ],
 };
 
