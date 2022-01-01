@@ -51,7 +51,7 @@ const about = {
   imageSize: 375,
   message:
     "Hi! My name is Mint. A Fullstack Engineer currently working at a Silicon Valley based startup company, Poplar Homes(formerly Onerent).\nI have 8+ years of experience as a developer and love working with React and WordPress. If you fancy a chat, feel free to drop me a line.",
-  resume: "https://drive.google.com/file/d/18pxlQYDeYzPC_6wpBKIYj1iTHJDATjbT/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1G5k2h3VBA2hV1z94tfPjGaQwLupAGVoA/view",
 };
 
 // PROJECTS SECTION
@@ -62,7 +62,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "mint13", //i.e."johnDoe12Gh"
+  gitHubUsername: "mint13",
   reposLength: 0,
   specificRepos: ['LeetCode-programming-problems', 'Design-Patterns', 'mint13.github.io', 'computer-science'],
 };
@@ -133,7 +133,7 @@ const experiences = {
     {
       role: 'Poplar Homes',// Here Add Company Name
       companylogo: require('../assets/img/poplarhomes-min.jpg'),
-      date: "Created using WordPress, and comes with heavy customisation to connect to Poplar's main app",
+      date: "Poplar Homes' front facing website created using WordPress, and comes with heavy customisation to connect to Poplar's main app",
     },
     {
       role: 'Scamlord AI',// Here Add Company Name
@@ -143,12 +143,12 @@ const experiences = {
     {
       role: 'Kohler NZ',// Here Add Company Name
       companylogo: require('../assets/img/kohler-min.jpg'),
-      date: "Created using Zest; Zeald's proprietary CMS made with Perl",
+      date: "An e-commerce created using Zest; Zeald's proprietary CMS made with Perl",
     },
     {
       role: 'The Good Wine',// Here Add Company Name
       companylogo: require('../assets/img/thegoodwine-min.jpg'),
-      date: "Created using WordPress with Woocommerce; Heavily customised theme with custom search functionality",
+      date: "An e-commerce site that sells a variety of alcohol worldwide. Created using WordPress with Woocommerce; Heavily customised theme with custom search functionality",
     },
     {
       role: 'Plassurg NZ',// Here Add Company Name
