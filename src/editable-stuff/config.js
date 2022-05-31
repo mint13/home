@@ -50,7 +50,7 @@ const about = {
   imageLink: require("../editable-stuff/mint.jpg"),
   imageSize: 375,
   message:
-    "Hi! My name is Mint. A Fullstack Engineer with 8+ years of experience as a developer and love working with React and WordPress. If you fancy a chat, feel free to drop me a line.",
+    "Hi! My name is Mint. A Fullstack Engineer with 8+ years of experience as a developer and love working with React, Laravel, and WordPress. If you fancy a chat, feel free to drop me a line.",
   resume: "https://drive.google.com/file/d/1G5k2h3VBA2hV1z94tfPjGaQwLupAGVoA/view",
 };
 
