@@ -131,6 +131,11 @@ const experiences = {
   heading: "Past Works",
   data: [
     {
+      role: 'Kyocera Mobile',// Here Add Company Name
+      companylogo: require('../assets/img/kyocera-min.jpg'),
+      date: "A product catalogue website of Kyocera International Inc to showcase their phones. Created using WordPress and a custom theme.",
+    },
+    {
       role: 'Poplar Homes',// Here Add Company Name
       companylogo: require('../assets/img/poplarhomes-min.jpg'),
       date: "Poplar Homes' front facing website created using WordPress, and comes with heavy customisation to connect to Poplar's main app",
@@ -139,11 +144,6 @@ const experiences = {
       role: 'Scamlord AI',// Here Add Company Name
       companylogo: require('../assets/img/scamlord-min.jpg'),
       date: "A simple web app to check if a listing is valid or scam. Created using WordPress while using Poplar's API to check the validity of the listing.",
-    },
-    {
-      role: 'Kohler NZ',// Here Add Company Name
-      companylogo: require('../assets/img/kohler-min.jpg'),
-      date: "An e-commerce created using Zest; Zeald's proprietary CMS made with Perl",
     },
     {
       role: 'The Good Wine',// Here Add Company Name
