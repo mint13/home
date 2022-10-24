@@ -50,8 +50,8 @@ const about = {
   imageLink: require("../editable-stuff/mint.jpg"),
   imageSize: 375,
   message:
-    "Hi! My name is Mint. A Fullstack Engineer with 8+ years of experience as a developer and love working with React, Laravel, and WordPress. If you fancy a chat, feel free to drop me a line.",
-  resume: "https://drive.google.com/file/d/1G5k2h3VBA2hV1z94tfPjGaQwLupAGVoA/view",
+    "Hi! My name is Mint. A Fullstack Engineer with 9+ years of professional experience as a developer. I love working with React, Laravel, and WordPress. If you fancy a chat, feel free to drop me a line.",
+  resume: "https://drive.google.com/file/d/1YfFg7ZMtBHaH78LgaULh5F9tYVXJgzEf/view",
 };
 
 // PROJECTS SECTION
@@ -96,18 +96,18 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "WordPress", value: 90 },
-    { name: "PHP", value: 85 },
-    { name: "SQL", value: 80 },
+    { name: "WordPress", value: 95 },
+    { name: "PHP", value: 90 },
+    { name: "SQL", value: 85 },
     { name: "HTML/CSS", value: 95 },
     { name: "JavaScript", value: 85 },
     { name: "React", value: 65 },
     { name: "VueJs", value: 60 },
-    { name: "Data Structures", value: 65 },
+    { name: "NodeJs", value: 65 },
   ],
   softSkills: [
     { name: "Attitude", value: 85 },
-    { name: "Communication", value: 80 },
+    { name: "Communication", value: 85 },
     { name: "Teamwork", value: 85 },
     { name: "Adaptability", value: 85 },
     { name: "Problem Solving", value: 75 },
@@ -165,7 +165,7 @@ const experiences = {
 
 // Blog SECTION
 // const blog = {
-//   show: false,
+//   show: false, 
 // };
 
 export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences };
