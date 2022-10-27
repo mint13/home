@@ -64,7 +64,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "mint13",
   reposLength: 0,
-  specificRepos: ['LeetCode-programming-problems', 'Design-Patterns', 'mint13.github.io', 'computer-science'],
+  specificRepos: ['LeetCode-programming-problems', 'Design-Patterns', 'credit-card-form', 'tic-tac-toe'],
 };
 
 // Leadership SECTION
