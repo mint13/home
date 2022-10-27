@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Mint",
   middleName: "",
   lastName: "Medillo",
-  message: " The odyssey of a Fullstack Engineer ",
+  message: " a Full Stack Engineer ",
   icons: [
     {
       image: "fa-github",
@@ -50,7 +50,7 @@ const about = {
   imageLink: require("../editable-stuff/mint.jpg"),
   imageSize: 375,
   message:
-    "Hi! My name is Mint. A Fullstack Engineer with 9+ years of professional experience as a developer. I love working with React, Laravel, and WordPress. If you fancy a chat, feel free to drop me a line.",
+    "Hi! My name is Mint. A Full Stack Engineer with 9+ years of professional experience as a developer. I love working with React, Laravel, and WordPress. If you fancy a chat, feel free to drop me a line.",
   resume: "https://drive.google.com/file/d/1YfFg7ZMtBHaH78LgaULh5F9tYVXJgzEf/view",
 };
 
